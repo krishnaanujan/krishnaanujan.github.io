@@ -1,0 +1,30 @@
+---
+title: "Hello there!"
+pagetitle: "Krishna Anujan"
+description-meta: "Krishna Anujan is a postdoctoral research fellow at the Smithsonian Institution"
+# main-photo: /files/profiles/andrew-heiss-2022.jpg
+main-photo-square: /files/profiles/profile_bw.jpg
+title-block-banner: "#CF4446"
+format:
+  html:
+    quarto-template-params:
+      banner-header-class: "home"
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-sm-4}
+
+[![](/files/profiles/profile_bw.jpg)](/about)
+
+:::
+
+::: {.g-col-12 .g-col-sm-8}
+
+I am an ecologist, communicator and NatGeo Explorer. My goal is to improve basic understanding of tropical tree community dynamics in an equitable and just manner. I have been working consistently to bridge gaps between science and society, both through academic research on forest dynamics, mentorship and by working to strengthen human-nature connections through creative communication.
+
+Currently, I am a Smithsonian Institution Postdoctoral Fellow at the ForestGEO Ecosystems and Climate Lab advised by Kristina Anderson-Teixeira and Sean McMahon.
+Previously, I completed my PhD, advised by Shahid Naeem at the Department of Ecology Evolution and Environmental Biology, Columbia University.
+:::
+
+:::

@@ -1,0 +1,46 @@
+---
+title: "Research"
+---
+
+## Global change effects on tropical forests
+
+The tropical forest carbon sink has the largest contribution on land to offsetting atmospheric carbon emissions and mitigating global climate change. 
+Yet, its quantification has the highest uncertainty among terrestrial biomes. 
+I study tropical forest dynamics trying to understand the effects of climate and global change on forests as a whole. 
+I am interested in measuring and modelling processes at the individual tree level, to investigate variability in tree growth across species, sites and years. 
+I currently work with [ForestGEO](https://forestgeo.si.edu/){: .btn--clean}, a leading network of long-term monitoring plots. 
+In collaboration with this global network of plots and scientists, I am leveraging long-term records of manual dendrometer band measurements to model tree growth dynamics.
+
+Current projects:
+1. Sensitivity of tree growth to drought in seasonally dry tropical forests
+2. Climate sensitivity of tropical tree growth across sites and species. 
+
+
+<!-- In the past, I have worked on the effect of biodiversity loss on tropical forest ecosystems [@anujan_biodiversity_2022, @anujan_chronic_2022] and experimental grassland systems [@anujan_trophic_2021]. I have also worked on understanding tropical phenology using a citizen science dataset  ---->
+
+
+## Forecasting tropical forest ecosystems
+
+Forests are dynamical systems and their management requires _regular_, direct data from researchers to anticipate changes and proactively plan against detrimental impacts.
+This requires thinking beyond basic predictive modelling frameworks - models that ask _"what if?"_ - to ecosystem forecasting framworks - models that inform _"what next?"_. 
+Currently, I am building a hierarchical Bayesian model to forecast tree growth at a temperate and tropical ForestGEO site using measurements made from three complementary techniques : five-year censuses of the whole plot using diameter tape, annual dendrometer band censuses of some individuals across species and tree ring measurements from a few species. 
+
+I am also a member of the [Ecological Forecasting Initiative](https://ecoforecast.org/){: .btn--clean}.
+
+
+## Data and knowledge equity for forest futures
+
+Although the scientific world has been increasing efforts to understand and manage tropical ecosystems, these efforts can often reflect the biases inherent in an unequal world.
+This is most stark when you examine who gets to participate in and benefit from the tropical ecological research.
+Communities whose well-being is closely linked to forest health often have limited access to information collected from their backyards because of several systemic barriers, including language.
+These inequities operate across scales and often compound/intersect.
+Young people from conservation priority landscapes have limited access to enter the world of conservation.
+Even within the academic community, researchers from the Global South (large overlap with the tropics) are affected by legacies of inequalities.
+This equity differential in tropical ecology can also feed back as poorly informed science and ineffective policy.
+A part of my work is to bridge these gaps in ways that fit with my expertise.
+
+I have been co-leading [INvenTree](https://india-inventree.github.io/){: .btn--clean}, an effort at harmonising disparate datasets on tree inventories in India to benefit research and researchers. 
+
+I am a co-founder of [Local Voices in Conservation](https://localvoicesportblair.my.canva.site/){: .btn--clean}, a summer school for young professionals from the Andaman Islands interested in Conservation.
+In the past, I have worked on projects on biocultural conservation to understand forest health.
+And finally, I write articles on basic ecology in English and collaborate to write in Malayalam, to improve access to knowledge beyond scientific papers.

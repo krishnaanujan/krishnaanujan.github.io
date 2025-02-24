@@ -1,0 +1,72 @@
+---
+title: "Writing"
+---
+
+<style>
+  .page_content {
+    font-size: 14px; /* Set your desired font size here */
+  }
+</style>
+
+Collabs
+==========
+1. [Kanha ka Gaana](https://youtu.be/FWbZZf3WYP4?si=EJuzKtVIY35H_FGg), presenting research results in Hindi near Kanha Tiger Reserve as part of Soundscapes and Stories project.
+6. Co-hosted [The Thing About Reflections](https://open.spotify.com/episode/0DZwqrZ27Y4Yb0KnqOrF6f) in S02 of The Thing About Wildlife
+5. [Visual abstracts](https://www.sebiology.org/outreach/public-resources/infographics.html) for scientific papers with [Ravindra P N](https://rvndrpn.wixsite.com/ravindra), funded by the [Society for Experimental Biology](https://www.sebiology.org/)
+4. [A Malayali Mango Mystery](https://science.thewire.in/environment/mango-tree-flowering-pattern-change-seasonwatch/), The Wire Science - with [SeasonWatch](http://seasonwatch.in/) +  Watch [the talk](https://youtu.be/viT6roHzigY?t=61)!
+3. [An Atypical Tree Walk](https://www.thetravelinggecko.com/post/644622324582203392) with Travelling Gecko
+2. How to tame your PhD with [Tanya Ginwala, Qualia Mental Health](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi07re97tjyAhXnqksFHZwmAVYQFnoECAIQAQ&url=https%3A%2F%2Fwww.instagram.com%2Fqualia_mentalhealth%2F%3Fhl%3Den&usg=AOvVaw1iW0M-1Lunt2X886lHncee)
+1. [The Thing About Plants](https://anchor.fm/ttaw/episodes/10-The-Thing-about-Plants-with-Krishna-Anujan-e15tsg5) - episode 10 of The Thing About Wildlife podcast
+
+Scicomm in English
+==========
+1. First colonizers, Orion Magazine (Winter '22)
+7. [Foraging Food: Eating Wild in the Andaman Islands](https://sustain.round.glass/wild-vault/eating-wild-in-the-andaman-islands/), RoundGlass Sustain
+6. [What does the climate crisis mean for the Andaman Islands?](https://www.natureinfocus.in/call-for-code/what-does-the-climate-crisis-mean-for-the-andaman-islands), Nature inFocus
+5. [Scent of a forest: Inhaling the Wonder of Blooms, Leaves and Fruits](https://round.glass/sustain/wild-vault/scent-forest/), RoundGlass Sustain
+4. [COVID-19: An Ecologist's Perspective](https://www.natureinfocus.in/trending/covid-19-an-ecologist-s-perspective), Nature inFocus
+3. [Andaman Islands natural history and ecology article series](https://www.natureinfocus.in/author/krishna-anujan) (8 articles), Nature inFocus
+2. [Un-Gorilla, Un-Adventure: The Realities of Fieldwork](https://scienceoutside.com/portfolio/un-gorilla-un-adventure/), Science Outside
+1. [Big Blue, Tall Green](https://sanctuaryasia.com/magazines/features/10648-big-blue-tall-green.html), Sanctuary Asia
+
+Policy Comments
+==========
+1.  [Draft EIA 2020 undercuts India's biodiversity and climate goals](https://www.downtoearth.org.in/blog/environment/draft-eia-2020-undercuts-india-s-biodiversity-and-climate-goals-73201), Down to Earth
+3. [Faith, fallacies drive massive overhaul, while social equity and state autonomy take a back seat](http://confluence.ias.ac.in/faith-fallacies-drive-massive-overhaul-while-social-equity-and-state-autonomy-take-a-back-seat/), Comments on Draft New Education Policy, 2019, Confluence
+2. [One year on, the PM's Research Fellowship is off to a sputtering start](https://thewire.in/the-sciences/the-pms-research-fellowship-is-not-the-hero-that-indian-science-deserves), The Wire
+1. [Institutions of Eminence: Controversy Overshadows Need For Transparency, Complexity](https://thewire.in/education/institutions-of-eminence-controversy-overshadows-need-for-transparency-complexity), The Wire
+
+Scicomm in Malayalam (translated by Prasanna K Varma)
+==========
+1. Listening to Pamuk, Swathanthryathinte manifesto
+2. Ponnayathellam minnunnumilla, Mathrubhumi weekly
+3. Stone, paper, scissors, Mathrubhumi weekly
+4. Marangalude maranam, Mathrubhumi weekly
+5. Aazhathilulla verukal manju moodunnilla, Mathrubhumi weekly
+6. Chaaram puthanja kanalukal, Mathrubhumi weekly
+7. Nizhalukalilninnu uyirkkollunna velicham, Mathrubhumi weekly
+8. Murivaayile puthumulakal, Mathrubhumi weekly
+9. Kaanunna kaadalla kaadu, Mathrubhumi weekly
+10. Kadanjedukkunnu kaalam, Mathrubhumi weekly
+11. Kaadukal paadunna paattukal, Mathrubhumi weekly
+12. Njarambukalkkullile rahasyapravaahangal, Mathrubhumi weekly
+13. Remote sensing: oru aakaashakkaazhcha, Mathrubhumi weekly
+14. Aarudethaanee kaadukal, Mathrubhumi weekly
+15. Urangumbol ningal endu cheyyukayanu, Mathrubhumi weekly
+16. Harithatheerangal, carbon neelakal, Mathrubhumi weekly
+17. Parinaamathinte parinaamam, Mathrubhumi weekly
+18. Kadalukalude kaalaavastha, Mathrubhumi weekly
+19. Paristhiti enna sthree, Mathrubhumi weekly
+20. Visarjyathinte vila, Mathrubhumi weekly
+21. Bhoomiyude samayam kaakkunnavar, Mathrubhumi weekly
+22. Coronayilekkulla parinaamangal, Mathrubhumi weekly
+23. Maavile maambazhathil nammude pankethra?, Mathrubhumi weekly
+24. Locusts, Mathrubhumi weekly
+25. Mithayippothiyil ninnu kilirtha kadukal, Mathrubhumi weekly
+
+Birds
+=========
+1. We published on the status of the little studied Violet Cuckoo in the Andaman Islands.
+Sridharan B, Mohanty NP, Anujan K and Nelaballi S. "[Violet Cuckoo Chrysococcyx xanthorhynchus in the Andaman Islands.](https://www.researchgate.net/publication/317036929_Violet_Cuckoo_Chrysococcyx_xanthorhynchus_in_the_Andaman_Islands)" Indian Birds 13.2 (2017): 46-50.
+2. Co-created framework and categories for all species of birds sighted in the Andaman Islands for a Migratory Bird Field Guide published by the Department of Environment and Forest, ANI. Collaborator: James Tirkey
+3. Regular volunteer for Asian Waterbird Census for the Andaman Islands, for mapping and data management with Andaman Avians Club.

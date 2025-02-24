@@ -1,0 +1,62 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Krishna Anujan, PhD"
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      # - about.qmd
+      - research.qmd
+      - teaching.qmd
+      - writing.qmd
+      - publications.qmd
+    right:
+      - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
+        href: "mailto:anujank@si.edu"
+      - text: "{{< iconify bi github size=1.1em title='GitHub' >}}"
+        href: https://github.com/krishnaanujan
+        rel: me
+      - text: "{{< iconify bi linkedin size=1.1em title='LinkedIn' >}}"
+        href: https://www.linkedin.com/in/krishnaanujan
+        rel: me
+  
+  page-footer:
+    # left: |
+    #   <span class="faux-block">{{< fa brands creative-commons >}} {{< var years >}} Andrew Heiss</span>
+    #   <span class="faux-block">All content licensed under<br>[{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)</span>      
+    # center: |
+    #   <span class="faux-block">{{< fa brands orcid >}} <strong>ORCID</strong> [{{< var orcid >}}](https://orcid.org/{{< var orcid >}})</span>
+    #   <span class="faux-block">{{< fa key >}} [PGP public key]({{< var pgp.key >}}) &emsp; {{< fa fingerprint >}} Fingerprint:</strong><br><span class="fingerprint">{{< var pgp.fingerprint >}}</span></span>
+    right: |
+      <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
+      <span class="faux-block">[View the source at {{< fa brands github >}} GitHub]({{< var github-url >}})</span>
+
+
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+# format:
+#   html:
+#     theme: 
+#       - html/ath.scss
+#     grid: 
+#       body-width: 900px
+#     toc: false
+#     code-link: true
+#     anchor-sections: true
+#     fig-cap-location: margin
+#     reference-location: margin
+#     footnotes-hover: true
+#     highlight-style: monokai
+
+
