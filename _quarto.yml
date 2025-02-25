@@ -40,7 +40,8 @@ website:
 format:
   html:
     theme:
-      - cosmo
+      # - cosmo
+      - flatly
       - brand
     css: styles.css
     toc: true

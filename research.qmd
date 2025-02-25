@@ -8,7 +8,7 @@ The tropical forest carbon sink has the largest contribution on land to offsetti
 Yet, its quantification has the highest uncertainty among terrestrial biomes. 
 I study tropical forest dynamics trying to understand the effects of climate and global change on forests as a whole. 
 I am interested in measuring and modelling processes at the individual tree level, to investigate variability in tree growth across species, sites and years. 
-I currently work with [ForestGEO](https://forestgeo.si.edu/){: .btn--clean}, a leading network of long-term monitoring plots. 
+I currently work with [ForestGEO](https://forestgeo.si.edu/){.btn-clean}, a leading network of long-term monitoring plots. 
 In collaboration with this global network of plots and scientists, I am leveraging long-term records of manual dendrometer band measurements to model tree growth dynamics.
 
 Current projects:
