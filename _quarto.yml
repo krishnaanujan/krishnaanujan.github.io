@@ -20,9 +20,9 @@ website:
       - text: "{{< iconify bi github size=1.1em title='GitHub' >}}"
         href: https://github.com/krishnaanujan
         rel: me
-      - text: "{{< iconify bi linkedin size=1.1em title='LinkedIn' >}}"
-        href: https://www.linkedin.com/in/krishnaanujan
-        rel: me
+      # - text: "{{< iconify bi linkedin size=1.1em title='LinkedIn' >}}"
+      #   href: https://www.linkedin.com/in/krishnaanujan
+      #   rel: me
   
   page-footer:
     # left: |
