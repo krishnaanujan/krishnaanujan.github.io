@@ -4,7 +4,8 @@ pagetitle: "Krishna Anujan"
 description-meta: "Krishna Anujan is a postdoctoral research fellow at the Smithsonian Institution"
 # main-photo: /files/profiles/andrew-heiss-2022.jpg
 main-photo-square: /files/profiles/profile_bw.jpg
-title-block-banner: "#CF4446"
+# title-block-banner: "#CF4446"
+title-block-banner: "#6D214F"
 format:
   html:
     quarto-template-params:
@@ -16,6 +17,21 @@ format:
 ::: {.g-col-12 .g-col-sm-4}
 
 [![](/files/profiles/profile_bw.jpg)](/about)
+
+
+<!-- {{< iconify bi person size=1.1em title='About' >}} [About me](/about) -->
+
+<!-- {{< iconify bi book size=1.1em title='Publications' >}} [Publications](/publications) -->
+
+{{< iconify bi academicons:google-scholar-square size=1.1em title='Publications' >}} [Publications](https://scholar.google.com/citations?user=6kEpMSEAAAAJ&hl=en)
+
+<!-- {{< iconify bi globe size=1.1em title='Research' >}} [Research](/research) -->
+
+{{< iconify bi twitter size=1.1em title='Twitter' >}} [Twitter](https://twitter.com/krishnaanujan)
+
+{{< iconify bi github size=1.1em title='GitHub' >}} [GitHub](https://github.com/krishnaanujan)
+
+{{< iconify bi envelope size=1.1em title='E-mail' >}} [anujank@si.edu](mailto:anujank@si.edu)
 
 :::
 
