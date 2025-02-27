@@ -2,27 +2,42 @@
 title: "Teaching"
 ---
 
-Local Voices in Conservation Programme
-========
-I co-founded the Local Voices in Conservation Programme with conservation educator Karishma Modi in 2021 with the aim of diversifying conservation research, practice and communication in marginal geographies in India. We piloted this summer school in June 2023 in Port Blair, Andaman and Nicobar Islands, for young professionals from the landscape.
-In October 2022, in collaboration with Madhuri Ramesh, faculty at the School of Development at Azim Premji University, and 8 others, we developed a unique, contextual syllabus for this summer school.
-Read more: https://tinyurl.com/localconservation
-Contact us: localconservation@gmail.com
-Follow us on Instagram!
+## Original Courses and Modules
 
-Watch Island Critters - short documentaries on native species of the Andaman Islands made by the 2023 cohort!
+### Local Voices in Conservation Programme
 
-Environmental Writing Module
-========
+I co-founded the Local Voices in Conservation Programme with conservation educator Karishma Modi with the aim of diversifying conservation research, practice and communication in marginal geographies in India. 
 
-Sustainability, Azim Premji University, 2023
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+![](/files/profiles/Agnesia_teaching.JPG)
+
+:::
+::: {.g-col-12 .g-col-md-6}
+We taught two iterations of this annual programme in Port Blair, Andaman and Nicobar Islands, for young professionals from the landscape.  
+[Read more about the programme](https://tinyurl.com/localconservation)  
+[Contact us](mailto:localconservation@gmail.com)  
+[Follow us on Instagram!](https://www.instagram.com/localconservation/)  
+
+:::
+:::
+<!-- The unique and contextual curriculum for this workshop was developed in collaboration with Madhuri Ramesh, faculty at the School of Development at Azim Premji University, and 8 other conservation professionals working in different geographies in India.  -->
+
+[Watch Island Critters](https://www.youtube.com/watch?v=azQQLKm088c&t=9s) - short documentaries on native species of the Andaman Islands made by the inaugural 2023 cohort!
+
+### Environmental Writing Module
+
+*Sustainability, Azim Premji University, 2023*  
 I developed and taught a two-day module on Environmental Writing at Azim Premji University for the Sustainability Capstone for bachelors students in January 2023. At this hands-on module for 15 students, I focussed on fundamentals of writing as a skill, as well as reading and writing creative pieces on the environment. Read student articles from this workshop here - 1 (The Clam Collectors of Vembanad Lake), 2 (A forest in A City), 3 (Religious beliefs and conservation), 4 (Fixing the nitrogen cycle) , 5 (Where are all the fireflies?)
 
+## University Courses 
 
-John Jay Fellow & Graduate Student Mentor
-========
-Columbia Undergraduate Scholars Program, 2021-22
-I worked as a Graduate Student Mentor (GSM), designing and executing various teaching and mentoring activities through the Columbia Undergraduate Scholars Program (CUSP) at Columbia University. From summer 2021, I worked with a diverse team of graduate students across departments and with the CUSP core staff. My responsibilities as a GSM included
+### John Jay Fellow & Graduate Student Mentor
+
+*Columbia Undergraduate Scholars Program, 2021-22*  
+I worked as a Graduate Student Mentor (GSM), designing and executing various teaching and mentoring activities through the Columbia Undergraduate Scholars Program (CUSP) at Columbia University. 
+From summer 2021, I worked with a diverse team of graduate students across departments and with the CUSP core staff.
+My responsibilities as a GSM included
 
 - tracking summer fellowship commitments
 - designing and executing a student showcase event and speaker events
@@ -30,69 +45,78 @@ I worked as a Graduate Student Mentor (GSM), designing and executing various tea
 - teaching the Columbia Journeys Seminar
 - weekly mentorship meetings through the academic year
 
-Introduction to Statistics for Ecology and Evolution
-========
+### Introduction to Statistics for Ecology and Evolution
 
-Spring 2019, Teaching Assistant
-Professor: Evan Eskew, PhD
+
+*Spring 2019, Teaching Assistant*  
+*Instructor: Evan Eskew, PhD*  
 The goal of this course was to introduce data manipulation, visualization, and statistical
-modeling with an emphasis on applications in ecology and evolution. Students learned several common statistical techniques, including Bayesian theoretical frameworks, through lectures, labs, homework and a personal research project. All materials in the course were based on the statistical software R.
+modeling with an emphasis on applications in ecology and evolution. 
+Students learned several common statistical techniques, including Bayesian theoretical frameworks, through lectures, labs, homework and a personal research project. 
+All materials in the course were based on the statistical software R.
 
 - Assisted in lab sessions, helped students write and debug code.
 - Graded 50% of all assignments (14 weeks for 44 students)
 
-Summer Ecosystem Experiences for Undergraduates, Jordan
-========
+### Summer Ecosystem Experiences for Undergraduates, Jordan
 
-Summer 2018, Teaching Assistant
-Professor: Jenna Lawrence, PhD
-This intensive six weeks course provides undegraduate students with an opportunity to understand ecology and environmental sustainability in the unique ecological and cultural setting of the Hashemite Kingdom of Jordan. This course involved a combination of classroom lectures, field data collection, analysis and an individual research project.
+*Summer 2018, Teaching Assistant* 
+*Instructor: Jenna Lawrence, PhD* 
+This intensive six weeks course provides undegraduate students with an opportunity to understand ecology and environmental sustainability in the unique ecological and cultural setting of the Hashemite Kingdom of Jordan. 
+This course involved a combination of classroom lectures, field data collection, analysis and an individual research project.
 
 - I graded all quizzes (6 quizzes for 15 students) and assisted in mentoring for research projects, both in data collection and analysis. I also assisted in grading both the project proposals and final reports.
 - I delivered a lecture on trophic cascades linked to a previous research project.
 - I managed field equipment, interacted closely with students and liaised with the trip coordinator.
 
+### Environmental Biology II: Organisms to the Biosphere
 
-
-Environmental Biology II: Organisms to the Biosphere
-========
-
-Spring 2018, Teaching Assistant
-Professor: Kevin Uno, PhD, Matthew Palmer, PhD and Natalie Boelman, PhD
+*Spring 2018, Teaching Assistant*  
+*Instructors: Kevin Uno, PhD, Matthew Palmer, PhD and Natalie Boelman, PhD* 
 This course for undergraduate majors in environmental biology and environmental science, focused on processes in ecology and evolution. Through lectures and labs, students learned earth history, macroevolution and biogeochemistry.
 
 - I was responsible for leading a weekly lab section. Duties each week included preparing and delivering a lecture and leading lab-based data collection.
 - I was also responsible for grading weekly assignments from labs for 16 students (25% of a total of 48 students) as well as grading three exams throughout the semester.
 
-Environmental Biology I: Elements to Organisms
-========
-Fall 2017, Teaching Assistant
-Professor: Shahid Naeem, PhD and Danielle Tufts, PhD
+### Environmental Biology I: Elements to Organisms
+
+*Fall 2017, Teaching Assistant*  
+*Instructors: Shahid Naeem, PhD and Danielle Tufts, PhD*  
 This introductory course for undergraduate majors in environmental biology covered topics of biodiversity, origins of life systems, microevolution and genetics.
 
 - Led a weekly discussion section and three review sessions.
 - Prepared and delivered a lecture on osmoregulation, its evolution and diversity.
 - Graded 33% of three exams in the semester (total=27 students)
 
+## Outreach and Training Workshops
 
-Training Workshop for Birdwatching Tour Guides
-========
+### Training Workshop for Birdwatching Tour Guides
 
-Summer 2016, Instructor
-Instructors: Krishna Anujan, Chetana Purushotham, Vardhan Patankar, PhD and Zoya Tyabji
-In collaboration with the Department of Environment and Forest, Andaman and Nicobar Islands, we (four researchers) designed and conducted a four-day workshop and certificate course to train birdwatching tour guides in the archipelago. Combining lectures, role playing games and field trips to different ecosystems and birding hotspots, we taught basic bird identification skills, tour guiding skills and discussed ethical and sustainable tourism to a diverse group of attendees.
+*Summer 2016, Instructor*  
+*Instructors: Krishna Anujan, Chetana Purushotham, Vardhan Patankar, PhD and Zoya Tyabji*  
+In collaboration with the Department of Environment and Forest, Andaman and Nicobar Islands, we (four researchers) designed and conducted a four-day workshop and certificate course to train birdwatching tour guides in the archipelago. 
+Combining lectures, role playing games and field trips to different ecosystems and birding hotspots, we taught basic bird identification skills, tour guiding skills and discussed ethical and sustainable tourism to a diverse group of attendees.
 
 - Pitched and designed course structure including schedule, syllabus and field trip locations.
 - Led sessions on Basic Bird Identification, Tourism Ethics, games and quizzes. Led groups on field trips.
 
-Training Workshop for Forest Department Field Staff
-========
-Fall 2019, Instructor
-Instructors: Juilee Palkar, James Tirkey, Ledu Kujur, Sebian Horo and Krishna Anujan
+Read an article on this [here](https://birdcount.in/birding-workshop-andamans/)
+
+### Training Workshop for Forest Department Field Staff
+
+*Fall 2019, Instructor*  
+*Instructors: Juilee Palkar, James Tirkey, Ledu Kujur, Sebian Horo and Krishna Anujan*  
 We conducted a one-day workshop for field staff of the Silviculture Division, Department of Environment and Forest, Andaman and Nicobar Islands to train frontline staff in making, installing and measuring dendrobands for tree monitoring.
 
-One-day Workshop for Early Birdwatchers
-========
-Fall 2018, Instructor
-Instructors: Krishna Anujan, Mythreyi K, Sadaf Sethwala and James Tirkey
-In collaboration with the Andaman and Nicobar Environmental Team and the Andaman Avians Club, I designed and led an introductory one-day workshop on birdwatching for school students in the region. Through a lecture, hands-on activities and a field trip, we introduced students to birdwatching as well as some basic ecology.
+### Life on Tree Bark: One-day Workshop for High School Students
+*Fall 2019, Instructor*
+In collaboration with Chanchal Singha Roy at the Government Higher Secondary School, Kadamtala, Andaman and Nicobar Islands, I designed and led a one-day workshop for high school students on the diversity of life on tree bark. 
+Through observations and note-taking, we introduced students to concepts of food webs and scales in Biology. 
+[Read reflections here.](https://medium.com/@krishna.anujan/life-on-a-tree-bark-a-workshop-44e207020f9e)
+
+### One-day Workshop for Early Birdwatchers
+
+*Fall 2018, Instructor*  
+*Instructors: Krishna Anujan, Mythreyi K, Sadaf Sethwala and James Tirkey*  
+In collaboration with the Andaman and Nicobar Environmental Team and the Andaman Avians Club, I designed and led an introductory one-day workshop on birdwatching for school students in the region. 
+Through a lecture, hands-on activities and a field trip, we introduced students to birdwatching as well as some basic ecology.
