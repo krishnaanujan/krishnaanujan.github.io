@@ -7,9 +7,6 @@ website:
   navbar:
     pinned: true
     left:
-      - href: index.qmd
-        text: Home
-      # - about.qmd
       - research.qmd
       - teaching.qmd
       - writing.qmd

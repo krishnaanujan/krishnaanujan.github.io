@@ -1,51 +1,19 @@
 /* css styles */
 
-/* create a button with name btn-clean */
-
-button {
-    background-color: #f8f9fa;
-    border: 1px solid #f8f9fa;
-    color: #366c56;
-    padding: 0.125em 0.25em;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-    border-radius: 4px;
+/* Navbar styles */
+.navbar {
+    background-color: #333;
+    /* Navbar background color */
+    color: #fff;
+    /* Navbar text color */
 }
 
-.btn-clean {
-    background-color: #f8f9fa;
-    border: 1px solid #f8f9fa;
-    color: #366c56;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-    border-radius: 4px;
+.navbar a {
+    color: #fff;
+    /* Navbar link color */
 }
 
-/* Change link colors */
-/* a {
-    color: #0dbd33;
-    /* Default link color */
-/* text-decoration: none; */
-/* Remove underline */
-/* } */
-
-/* a:hover { */
-/* color: #0dbd33; */
-/* Link color on hover */
-/* text-decoration: underline; */
-/* Underline on hover */
-/* } */
-
-/* a:visited { */
-/* color: #6c757d; */
-/* Visited link color */
-/* } */
+.navbar a:hover {
+    color: #ddd;
+    /* Navbar link color on hover */
+}
