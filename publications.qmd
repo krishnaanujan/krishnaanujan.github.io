@@ -5,19 +5,19 @@ csl: files/chicago-intext.csl
 suppress-bibliography: true
 ---
 
-## Preprints in review
-- [@anujan_harmonising_2024]  
-- [@anujan_environmental_2023]  
-- [@anujan_biodiversity_2022]  
-- [@higino_designing_2023]
-
-## Accepted manuscripts
+## Published peer-reviewed manuscripts
 - [@anujan_metropolis_2024]
 - [@anujan_chronic_2022]
 - [@anujan_trophic_2021]
 - [@heilpern_positive_2020]
 - [@mohanty_diet_2022]
 - [@sridharan_violet_2017]
+
+## Preprints in review
+- [@anujan_harmonising_2024]  
+- [@anujan_environmental_2023]  
+- [@anujan_biodiversity_2022]  
+- [@higino_designing_2023]
 
 
 

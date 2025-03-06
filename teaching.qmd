@@ -1,5 +1,6 @@
 ---
 title: "Teaching"
+title-block-banner: files/profiles/reflection.jpg
 ---
 
 ## Original Courses and Modules
@@ -28,7 +29,12 @@ We taught two iterations of this annual programme in Port Blair, Andaman and Nic
 ### Environmental Writing Module
 
 *Sustainability, Azim Premji University, 2023*  
-I developed and taught a two-day module on Environmental Writing at Azim Premji University for the Sustainability Capstone for bachelors students in January 2023. At this hands-on module for 15 students, I focussed on fundamentals of writing as a skill, as well as reading and writing creative pieces on the environment. Read student articles from this workshop here - 1 (The Clam Collectors of Vembanad Lake), 2 (A forest in A City), 3 (Religious beliefs and conservation), 4 (Fixing the nitrogen cycle) , 5 (Where are all the fireflies?)
+I developed and taught a two-day module on Environmental Writing at Azim Premji University for the Sustainability Capstone for bachelors students in January 2023. At this hands-on module for 15 students, I focussed on fundamentals of writing as a skill, as well as reading and writing creative pieces on the environment. Read student articles from this workshop here:
+- [The Clam Collectors of Vembanad Lake](https://www.natureinfocus.in/environment/the-clam-collectors-of-vembanad-lake) *by Ria Sojan*
+- [A forest in A City](https://www.natureinfocus.in/environment/a-forest-in-a-city) *by Aadya Thammaiah*
+- [Can religious beliefs aid conservation?](https://www.natureinfocus.in/environment/can-religious-beliefs-aid-in-conservation) *by Aarya Patil*
+- [Fixing the nitrogen cycle](https://www.natureinfocus.in/environment/fixing-the-nitrogen-cycle) *by Harshada R*
+- [Where are all the fireflies?](https://www.natureinfocus.in/environment/where-are-all-the-fireflies) *by Sharda CSR*
 
 ## University Courses 
 
@@ -62,7 +68,18 @@ All materials in the course were based on the statistical software R.
 
 *Summer 2018, Teaching Assistant* 
 *Instructor: Jenna Lawrence, PhD* 
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+![](/files/profiles/seeu_jordan.jpg)
+
+:::
+::: {.g-col-12 .g-col-md-6}
+
 This intensive six weeks course provides undegraduate students with an opportunity to understand ecology and environmental sustainability in the unique ecological and cultural setting of the Hashemite Kingdom of Jordan. 
+:::
+:::
+
 This course involved a combination of classroom lectures, field data collection, analysis and an individual research project.
 
 - I graded all quizzes (6 quizzes for 15 students) and assisted in mentoring for research projects, both in data collection and analysis. I also assisted in grading both the project proposals and final reports.
@@ -95,7 +112,17 @@ This introductory course for undergraduate majors in environmental biology cover
 *Summer 2016, Instructor*  
 *Instructors: Krishna Anujan, Chetana Purushotham, Vardhan Patankar, PhD and Zoya Tyabji*  
 In collaboration with the Department of Environment and Forest, Andaman and Nicobar Islands, we (four researchers) designed and conducted a four-day workshop and certificate course to train birdwatching tour guides in the archipelago. 
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+![](/files/profiles/birding_workshop.jpg)
+
+:::
+::: {.g-col-12 .g-col-md-6}
+
 Combining lectures, role playing games and field trips to different ecosystems and birding hotspots, we taught basic bird identification skills, tour guiding skills and discussed ethical and sustainable tourism to a diverse group of attendees.
+:::
+:::
 
 - Pitched and designed course structure including schedule, syllabus and field trip locations.
 - Led sessions on Basic Bird Identification, Tourism Ethics, games and quizzes. Led groups on field trips.
@@ -106,7 +133,17 @@ Read an article on this [here](https://birdcount.in/birding-workshop-andamans/)
 
 *Fall 2019, Instructor*  
 *Instructors: Juilee Palkar, James Tirkey, Ledu Kujur, Sebian Horo and Krishna Anujan*  
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+![](/files/profiles/dendroband_workshop.jpg)
+
+:::
+::: {.g-col-12 .g-col-md-6}
+
 We conducted a one-day workshop for field staff of the Silviculture Division, Department of Environment and Forest, Andaman and Nicobar Islands to train frontline staff in making, installing and measuring dendrobands for tree monitoring.
+:::
+:::
 
 ### Life on Tree Bark: One-day Workshop for High School Students
 *Fall 2019, Instructor*
@@ -119,4 +156,12 @@ Through observations and note-taking, we introduced students to concepts of food
 *Fall 2018, Instructor*  
 *Instructors: Krishna Anujan, Mythreyi K, Sadaf Sethwala and James Tirkey*  
 In collaboration with the Andaman and Nicobar Environmental Team and the Andaman Avians Club, I designed and led an introductory one-day workshop on birdwatching for school students in the region. 
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+![](/files/profiles/early_bird_workshop.jpg)
+
+:::
+::: {.g-col-12 .g-col-md-6}
 Through a lecture, hands-on activities and a field trip, we introduced students to birdwatching as well as some basic ecology.
+:::
+:::
