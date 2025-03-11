@@ -30,15 +30,16 @@ website:
     #   <span class="faux-block">{{< fa key >}} [PGP public key]({{< var pgp.key >}}) &emsp; {{< fa fingerprint >}} Fingerprint:</strong><br><span class="fingerprint">{{< var pgp.fingerprint >}}</span></span>
     right: |
       <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
+  google-analytics: "G-GZK4DVYK6T"
 
 
 
 format:
   html:
     theme:
-      # - cosmo
       - flatly
       - brand
+      # - mod_flatly.scss
     css: styles.css
     toc: true
 
