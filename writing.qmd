@@ -1,5 +1,5 @@
 ---
-title: "Writing"
+title: "Communication in English"
 title-block-banner: files/profiles/reflection.jpg
 ---
 
@@ -19,7 +19,7 @@ Collabs
 2. How to tame your PhD with [Tanya Ginwala, Qualia Mental Health](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi07re97tjyAhXnqksFHZwmAVYQFnoECAIQAQ&url=https%3A%2F%2Fwww.instagram.com%2Fqualia_mentalhealth%2F%3Fhl%3Den&usg=AOvVaw1iW0M-1Lunt2X886lHncee)
 1. [The Thing About Plants](https://anchor.fm/ttaw/episodes/10-The-Thing-about-Plants-with-Krishna-Anujan-e15tsg5) - episode 10 of The Thing About Wildlife podcast
 
-Scicomm in English
+Creative Nonfiction
 ==========
 1. First colonizers, Orion Magazine (Winter '22)
 7. [Foraging Food: Eating Wild in the Andaman Islands](https://sustain.round.glass/wild-vault/eating-wild-in-the-andaman-islands/), RoundGlass Sustain
@@ -37,7 +37,7 @@ Policy Comments
 2. [One year on, the PM's Research Fellowship is off to a sputtering start](https://thewire.in/the-sciences/the-pms-research-fellowship-is-not-the-hero-that-indian-science-deserves), The Wire
 1. [Institutions of Eminence: Controversy Overshadows Need For Transparency, Complexity](https://thewire.in/education/institutions-of-eminence-controversy-overshadows-need-for-transparency-complexity), The Wire
 
-Scicomm in Malayalam (translated by Prasanna K Varma)
+<!-- Scicomm in Malayalam (translated by Prasanna K Varma)
 ==========
 1. Listening to Pamuk, Swathanthryathinte manifesto
 2. Ponnayathellam minnunnumilla, Mathrubhumi weekly
@@ -63,7 +63,7 @@ Scicomm in Malayalam (translated by Prasanna K Varma)
 22. Coronayilekkulla parinaamangal, Mathrubhumi weekly
 23. Maavile maambazhathil nammude pankethra?, Mathrubhumi weekly
 24. Locusts, Mathrubhumi weekly
-25. Mithayippothiyil ninnu kilirtha kadukal, Mathrubhumi weekly
+25. Mithayippothiyil ninnu kilirtha kadukal, Mathrubhumi weekly -->
 
 Birds
 =========

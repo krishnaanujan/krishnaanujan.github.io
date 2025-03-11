@@ -9,7 +9,12 @@ website:
     left:
       - research.qmd
       - teaching.qmd
-      - writing.qmd
+      - text: "Writing"
+        menu: 
+        - text: "English"
+          href: writing.qmd
+        - text: "Malayalam"
+          href: writing_mal.qmd
       - publications.qmd
     right:
       - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
