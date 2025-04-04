@@ -1,7 +1,8 @@
 ---
 title: "Publications"
 bibliography: files/my_pubs.bib
-csl: files/chicago-intext.csl
+# csl: files/chicago-intext.csl
+csl: files/apa-cv.csl
 suppress-bibliography: true
 ---
 
