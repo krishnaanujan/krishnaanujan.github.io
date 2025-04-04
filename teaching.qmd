@@ -145,8 +145,8 @@ We conducted a one-day workshop for field staff of the Silviculture Division, De
 :::
 :::
 
-### Life on Tree Bark: One-day Workshop for High School Students
-*Fall 2019, Instructor*
+### Life on Tree Bark: One-day Workshop for High School Students  
+*Fall 2019, Instructor*  
 In collaboration with Chanchal Singha Roy at the Government Higher Secondary School, Kadamtala, Andaman and Nicobar Islands, I designed and led a one-day workshop for high school students on the diversity of life on tree bark. 
 Through observations and note-taking, we introduced students to concepts of food webs and scales in Biology. 
 [Read reflections here.](https://medium.com/@krishna.anujan/life-on-a-tree-bark-a-workshop-44e207020f9e)
@@ -156,12 +156,13 @@ Through observations and note-taking, we introduced students to concepts of food
 *Fall 2018, Instructor*  
 *Instructors: Krishna Anujan, Mythreyi K, Sadaf Sethwala and James Tirkey*  
 In collaboration with the Andaman and Nicobar Environmental Team and the Andaman Avians Club, I designed and led an introductory one-day workshop on birdwatching for school students in the region.  
-::: {.grid}
+
+:::: {.grid}
 ::: {.g-col-12 .g-col-md-6}
 ![](/files/profiles/early_bird_workshop.jpg)
-
 :::
+
 ::: {.g-col-12 .g-col-md-6}
 Through a lecture, hands-on activities and a field trip, we introduced students to birdwatching as well as some basic ecology.
 :::
-:::
+::::
