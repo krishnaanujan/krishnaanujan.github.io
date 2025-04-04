@@ -65,9 +65,9 @@ Policy Comments
 24. Locusts, Mathrubhumi weekly
 25. Mithayippothiyil ninnu kilirtha kadukal, Mathrubhumi weekly -->
 
-Birds
+<!-- Birds
 =========
 1. We published on the status of the little studied Violet Cuckoo in the Andaman Islands.
 Sridharan B, Mohanty NP, Anujan K and Nelaballi S. "[Violet Cuckoo Chrysococcyx xanthorhynchus in the Andaman Islands.](https://www.researchgate.net/publication/317036929_Violet_Cuckoo_Chrysococcyx_xanthorhynchus_in_the_Andaman_Islands)" Indian Birds 13.2 (2017): 46-50.
 2. Co-created framework and categories for all species of birds sighted in the Andaman Islands for a Migratory Bird Field Guide published by the Department of Environment and Forest, ANI. Collaborator: James Tirkey
-3. Regular volunteer for Asian Waterbird Census for the Andaman Islands, for mapping and data management with Andaman Avians Club.
+3. Regular volunteer for Asian Waterbird Census for the Andaman Islands, for mapping and data management with Andaman Avians Club. -->
