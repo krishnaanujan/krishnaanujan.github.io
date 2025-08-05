@@ -8,7 +8,7 @@ suppress-bibliography: true
 
 ## Published peer-reviewed manuscripts
 1. [@anujan_biodiversity_inpress]  
-1. [@higino_designing_inpress]  
+1. [@higino_designing_2025]  
 1. [@anujan_metropolis_2024]
 2. [@anujan_chronic_2022]
 3. [@anujan_trophic_2021]
