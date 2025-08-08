@@ -13,28 +13,28 @@ format:
 3. കോവിഡ്-19, *മാതൃഭൂമി* 
 
 # വയലറ്റ് കുക്കു, മാതൃഭൂമി ആഴ്ചപ്പതിപ്പ്
-1. പൊന്നായതെല്ലാം മിന്നുന്നുമില്ല
-3. സ്റ്റോൺ, പേപ്പർ, സിസേഴ്സ്
-4. മരങ്ങളുടെ മരണം
-5. ആഴത്തിലുള്ള വേരുകൾ മഞ്ഞു മൂടുന്നില്ല
-6. ചാരം പുതഞ്ഞ കനലുകൾ
-7. നിഴലുകളിൽനിന്നു ഉയിർക്കോള്ളുന്ന വെളിച്ചം
-8. മുറിവായിലെ പുതുമുളകൾ
-9. കാണുന്ന കാടല്ല കാട്
-10. കടഞ്ഞെടുക്കുന്നു കാലം
-11. കാടുകൾ പാടുന്ന പാട്ടുകൾ
-12. ഞരമ്പുകൾക്കുള്ളിലെ രഹസ്യപ്രവാഹങ്ങൾ
-13. റിമോട്ട് സെൻസിംഗ്: ഒരു ആകാശക്കാഴ്ച
-14. ആരുടേതാണീ കാടുകൾ
-15. ഉറങ്ങുമ്പോൾ നിങ്ങൾ എന്തു ചെയ്യുകയാണ്
-16. ഹരിതതീരങ്ങൾ, കാർബൺ നീലകൾ
-17. പരിണാമത്തിന്റെ പരിണാമം
-18. കടലുകളുടെ കാലാവസ്ഥ
-19. പരിസ്ഥിതി എന്ന സ്ത്രീ
-20. വിസര്‍ജ്യത്തിന്റെ വില
-21. ഭൂമിയുടെ രഹസൃം കാക്കുന്നവർ
-22. കൊറോണയിലേക്കുള്ള പരിണാമങ്ങൾ
-23. മാവിലെ മാംപഴത്തിൽ നമ്മുടെ പങ്കെത്ര
-24. വെട്ടുകിളിശല്യം
-25. മിഠായിപ്പൊത്തിയിൽ നിന്നു കിളിർത്ത കാടുകൾ
+1. പൊന്നായതെല്ലാം മിന്നുന്നുമില്ല [{{< iconify bi fa6-regular:file-pdf >}}](files/pdfs/violetcuckoo_1.pdf){.external target="_blank"}
+3. സ്റ്റോൺ, പേപ്പർ, സിസേഴ്സ് [{{< iconify bi fa6-regular:file-pdf >}}](files/pdfs/violetcuckoo_2.pdf){.external target="_blank"}
+4. മരങ്ങളുടെ മരണം [{{< iconify bi fa6-regular:file-pdf >}}](files/pdfs/violetcuckoo_3.pdf){.external target="_blank"}
+5. ആഴത്തിലുള്ള വേരുകൾ മഞ്ഞു മൂടുന്നില്ല [{{< iconify bi fa6-regular:file-pdf >}}](files/pdfs/violetcuckoo_4.pdf){.external target="_blank"}
+6. ചാരം പുതഞ്ഞ കനലുകൾ [{{< iconify bi fa6-regular:file-pdf >}}](files/pdfs/violetcuckoo_5.pdf){.external target="_blank"}
+7. നിഴലുകളിൽനിന്നു ഉയിർക്കോള്ളുന്ന വെളിച്ചം [{{< iconify bi fa6-regular:file-pdf >}}](files/pdfs/violetcuckoo_6.pdf){.external target="_blank"}
+8. മുറിവായിലെ പുതുമുളകൾ [{{< iconify bi fa6-regular:file-pdf >}}](files/pdfs/violetcuckoo_7.pdf){.external target="_blank"}
+9. കാണുന്ന കാടല്ല കാട് [{{< iconify bi fa6-regular:file-pdf >}}](files/pdfs/violetcuckoo_8.pdf){.external target="_blank"}
+10. കടഞ്ഞെടുക്കുന്നു കാലം [{{< iconify bi fa6-regular:file-pdf >}}](files/pdfs/violetcuckoo_9.pdf){.external target="_blank"}
+11. കാടുകൾ പാടുന്ന പാട്ടുകൾ [{{< iconify bi fa6-regular:file-pdf >}}](files/pdfs/violetcuckoo_10.pdf){.external target="_blank"}
+12. ഞരമ്പുകൾക്കുള്ളിലെ രഹസ്യപ്രവാഹങ്ങൾ [{{< iconify bi fa6-regular:file-pdf >}}](files/pdfs/violetcuckoo_11.pdf){.external target="_blank"}
+13. റിമോട്ട് സെൻസിംഗ്: ഒരു ആകാശക്കാഴ്ച [{{< iconify bi fa6-regular:file-pdf >}}](files/pdfs/violetcuckoo_12.pdf){.external target="_blank"}
+14. ആരുടേതാണീ കാടുകൾ [{{< iconify bi fa6-regular:file-pdf >}}](files/pdfs/violetcuckoo_13.pdf){.external target="_blank"}
+15. ഉറങ്ങുമ്പോൾ നിങ്ങൾ എന്തു ചെയ്യുകയാണ് [{{< iconify bi fa6-regular:file-pdf >}}](files/pdfs/violetcuckoo_14.pdf){.external target="_blank"}
+16. ഹരിതതീരങ്ങൾ, കാർബൺ നീലകൾ [{{< iconify bi fa6-regular:file-pdf >}}](files/pdfs/violetcuckoo_15.pdf){.external target="_blank"}
+17. പരിണാമത്തിന്റെ പരിണാമം [{{< iconify bi fa6-regular:file-pdf >}}](files/pdfs/violetcuckoo_16.pdf){.external target="_blank"}
+18. കടലുകളുടെ കാലാവസ്ഥ [{{< iconify bi fa6-regular:file-pdf >}}](files/pdfs/violetcuckoo_17.pdf){.external target="_blank"}
+19. പരിസ്ഥിതി എന്ന സ്ത്രീ [{{< iconify bi fa6-regular:file-pdf >}}](files/pdfs/violetcuckoo_18.pdf){.external target="_blank"}
+20. വിസര്‍ജ്യത്തിന്റെ വില [{{< iconify bi fa6-regular:file-pdf >}}](files/pdfs/violetcuckoo_19.pdf){.external target="_blank"}
+21. ഭൂമിയുടെ രഹസൃം കാക്കുന്നവർ [{{< iconify bi fa6-regular:file-pdf >}}](files/pdfs/violetcuckoo_20.pdf){.external target="_blank"}
+22. കൊറോണയിലേക്കുള്ള പരിണാമങ്ങൾ [{{< iconify bi fa6-regular:file-pdf >}}](files/pdfs/violetcuckoo_21.pdf){.external target="_blank"}
+23. മാവിലെ മാംപഴത്തിൽ നമ്മുടെ പങ്കെത്ര [{{< iconify bi fa6-regular:file-pdf >}}](files/pdfs/violetcuckoo_22.pdf){.external target="_blank"}
+24. വെട്ടുകിളിശല്യം 
+25. മിഠായിപ്പൊത്തിയിൽ നിന്നു കിളിർത്ത കാടുകൾ [{{< iconify bi fa6-regular:file-pdf >}}](files/pdfs/violetcuckoo_24.pdf){.external target="_blank"}
 
