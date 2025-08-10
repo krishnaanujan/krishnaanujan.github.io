@@ -23,4 +23,47 @@ suppress-bibliography: true
 
 ## Posters and graphical abstracts
 
+:::: {.grid}
 
+:::: {.g-col-12 .g-col-md-4}
+Anujan, K., McMahon, S. M., Bunyavejchewin, S., Davies, S. J., Pongpattananurak, N., Muller-Landau, H. C., & Anderson-Teixeira, K. J.,Sensitivity of tree growth to precipitation in seasonally dry tropical forests using long-term dendrometer band measurements. ***Annual Meeting of the American Geophysical Union 2024***
+:::
+:::: {.g-col-12 .g-col-md-8}
+![](files/posters_etc/AGU_poster_2.png){.img-fluid}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+Anujan K., Ratnam J., and Sankaran M. (2022) Chronic browsing by an introduced herbivore in a tropical island alters composition and functional traits of forest understories, Biotropica. DOI: 10.1111/btp.13149
+:::
+::: {.g-col-12 .g-col-md-8}
+![](files/posters_etc/graph_abs_watercolour_withQR.png){.img-fluid}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+Anujan K and Naeem S, Interactions between biotic and abiotic controls on evergreen forest regeneration in the Andaman Islands.
+***Annual Meeting of the Association of Tropical Biology and Conservation, Antananarivo, Madagascar, 2019***
+:::
+::: {.g-col-12 .g-col-md-8}
+![](files/posters_etc/poster_ATBC_2019_noqr.png){.img-fluid}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+Anujan K, Heilpern SA, Prager CM, Bruner SG, Lipton S and Naeem S, Trophic complexity alters the diversity-multifunctionality effect in experimental grassland mesocosms. ***Ecological Society of America Annual Meeting, 2018***
+:::
+::: {.g-col-12 .g-col-md-8}
+![](files/posters_etc/ESA_poster_2018.jpg){.img-fluid}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+Anujan K, Ratnam J and Sankaran M, 2016. Effect of introduced chital on forest plant communities in the Andaman Islands. ***National Centre for Biological Sciences Annual Talks 2016***
+:::
+::: {.g-col-12 .g-col-md-8}
+![](files/posters_etc/Krishna_MSLab_Anntalks_2016.png){.img-fluid}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+Anujan K, Ratnam J and Sankaran M, 2015. Effect of introduced chital on forest plant communities in the Andaman Islands. ***Student Conference for Conservation Sciences, Bangalore, 2015. Best Poster Award***
+:::
+::: {.g-col-12 .g-col-md-8}
+![](files/posters_etc/poster_sccs24.jpg){.img-fluid}
+:::
