@@ -19,14 +19,34 @@ We taught two iterations of this annual programme in Port Blair, Andaman and Nic
 [Read more about the programme](https://tinyurl.com/localconservation)  
 [Contact us](mailto:localconservation@gmail.com)  
 [Follow us on Instagram!](https://www.instagram.com/localconservation/)  
-[Watch our Impact video](https://youtu.be/6Y2v3qYxpE8) 
+<!-- [Watch our Impact video](https://youtu.be/6Y2v3qYxpE8)  -->
 
 :::
 :::
 <!-- The unique and contextual curriculum for this workshop was developed in collaboration with Madhuri Ramesh, faculty at the School of Development at Azim Premji University, and 8 other conservation professionals working in different geographies in India.  -->
 
-[Watch Island Critters](https://www.youtube.com/watch?v=azQQLKm088c&t=9s) - short documentaries on native species of the Andaman Islands made by the inaugural 2023 cohort  
-[Watch Creature, Culture, and You](https://www.youtube.com/watch?v=hg7MKNMlTW8&list=PLn6wozjJtadXt9gglyyA8g4OFYHovIpSR) - documentaries by the 2024 cohort  
+::: {.grid}
+::: {.g-col-12 .g-col-md-4}
+<iframe width="186" height="105" src="https://www.youtube.com/embed/6Y2v3qYxpE8?si=yMeKdyX6TQWqeg1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Watch our impact video 
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<iframe width="186" height="105" src="https://www.youtube.com/embed/azQQLKm088c?si=HJLLGu50nuZUPWQf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Watch Island Critters - short documentaries from the inaugural 2023 cohort
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<iframe width="186" height="105" src="https://www.youtube.com/embed/hg7MKNMlTW8?si=UJR0YJh-5zeVhseo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Watch Creature, Culture, and You - documentaries from the 2024 cohort
+
+:::
+:::
+
+<!-- [Watch Island Critters](https://www.youtube.com/watch?v=azQQLKm088c&t=9s) - short documentaries on native species of the Andaman Islands made by the inaugural 2023 cohort   -->
+<!-- [Watch Creature, Culture, and You](https://www.youtube.com/watch?v=hg7MKNMlTW8&list=PLn6wozjJtadXt9gglyyA8g4OFYHovIpSR) - documentaries by the 2024 cohort   -->
 
 ### Environmental Writing Module
 
