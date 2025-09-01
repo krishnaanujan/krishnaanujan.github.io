@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+pagetitle: "Krishna Anujan - Publications"
 bibliography: files/my_pubs.bib
 # csl: files/chicago-intext.csl
 csl: files/apa-cv.csl
@@ -11,9 +12,9 @@ suppress-bibliography: true
 1. [@higino_designing_2025] ***shared first authorship*** 
 1. [@anujan_metropolis_2024]
 2. [@anujan_chronic_2022]
+5. [@mohanty_diet_2022]
 3. [@anujan_trophic_2021]
 4. [@heilpern_positive_2020]
-5. [@mohanty_diet_2022]
 6. [@sridharan_violet_2017]
 
 ## Preprints in review

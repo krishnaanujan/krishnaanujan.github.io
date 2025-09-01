@@ -1,7 +1,7 @@
 ---
 title: "Hello there!"
 pagetitle: "Krishna Anujan"
-description-meta: "Krishna Anujan is a postdoctoral research fellow at the Smithsonian Institution"
+description-meta: "Personal website of Krishna Anujan, a postdoctoral research fellow at the Smithsonian Institution"
 # main-photo: /files/profiles/andrew-heiss-2022.jpg
 main-photo-square: /files/profiles/profile_bw.jpg
 # title-block-banner: "#6D214F"
@@ -28,7 +28,7 @@ format:
 
 ::: {.g-col-12 .g-col-sm-8}
 
-I am an ecologist, communicator and NatGeo Explorer. 
+I am Krishna Anujan, PhD, an ecologist, communicator and NatGeo Explorer. 
 My goal is to improve basic understanding of tropical tree community dynamics in an equitable and just manner. 
 I try to notice keenly and think deeply.
 <!-- I have been working consistently to bridge gaps between science and society, both through academic research on forest dynamics, mentorship and by working to strengthen human-nature connections through creative communication. -->
