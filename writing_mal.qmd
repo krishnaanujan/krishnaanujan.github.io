@@ -4,7 +4,7 @@ title-block-banner: files/profiles/reflection.jpg
 format:
   html:
     css: mal.css
-
+description-meta: "A collection of my science writing in Malayalam"
 ---
 
 # ലേഖനങ്ങൾ, ഓപ്പ്-എഡ്ഡുകൾ

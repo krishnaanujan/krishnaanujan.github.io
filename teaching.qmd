@@ -1,6 +1,7 @@
 ---
 title: "Teaching"
 title-block-banner: files/profiles/reflection.jpg
+description-meta: "A summary of my teaching experience, courses and workshops"
 ---
 
 ## Original Courses and Modules

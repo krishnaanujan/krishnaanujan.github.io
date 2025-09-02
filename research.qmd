@@ -1,7 +1,7 @@
 ---
 title: "Research"
 title-block-banner: files/profiles/reflection.jpg
-
+description-meta: "A summary of my research interests and ongoing projects"
 ---
 
 ## Global change effects on tropical forests
