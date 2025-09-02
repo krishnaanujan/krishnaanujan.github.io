@@ -17,9 +17,9 @@ I co-founded the Local Voices in Conservation Programme with conservation educat
 :::
 ::: {.g-col-12 .g-col-md-6}
 We taught two iterations of this annual programme in Port Blair, Andaman and Nicobar Islands, for young professionals from the landscape.  
-[Read more about the programme](https://tinyurl.com/localconservation)  
+[Read more about the programme](https://tinyurl.com/localconservation){target="_blank"}  
 [Contact us](mailto:localconservation@gmail.com)  
-[Follow us on Instagram!](https://www.instagram.com/localconservation/)  
+[Follow us on Instagram!](https://www.instagram.com/localconservation/){target="_blank"}  
 <!-- [Watch our Impact video](https://youtu.be/6Y2v3qYxpE8)  -->
 
 :::
@@ -53,11 +53,11 @@ Watch Creature, Culture, and You - documentaries from the 2024 cohort
 
 *Sustainability, Azim Premji University, 2023*  
 I developed and taught a two-day module on Environmental Writing at Azim Premji University for the Sustainability Capstone for bachelors students in January 2023. At this hands-on module for 15 students, I focussed on fundamentals of writing as a skill, as well as reading and writing creative pieces on the environment. Read student articles from this workshop here:
-- [The Clam Collectors of Vembanad Lake](https://www.natureinfocus.in/environment/the-clam-collectors-of-vembanad-lake) *by Ria Sojan*
-- [A forest in A City](https://www.natureinfocus.in/environment/a-forest-in-a-city) *by Aadya Thammaiah*
-- [Can religious beliefs aid conservation?](https://www.natureinfocus.in/environment/can-religious-beliefs-aid-in-conservation) *by Aarya Patil*
-- [Fixing the nitrogen cycle](https://www.natureinfocus.in/environment/fixing-the-nitrogen-cycle) *by Harshada R*
-- [Where are all the fireflies?](https://www.natureinfocus.in/environment/where-are-all-the-fireflies) *by Sharda CSR*
+- [The Clam Collectors of Vembanad Lake](https://www.natureinfocus.in/environment/the-clam-collectors-of-vembanad-lake){target="_blank"} *by Ria Sojan*
+- [A forest in A City](https://www.natureinfocus.in/environment/a-forest-in-a-city){target="_blank"} *by Aadya Thammaiah*
+- [Can religious beliefs aid conservation?](https://www.natureinfocus.in/environment/can-religious-beliefs-aid-in-conservation){target="_blank"} *by Aarya Patil*
+- [Fixing the nitrogen cycle](https://www.natureinfocus.in/environment/fixing-the-nitrogen-cycle){target="_blank"} *by Harshada R*
+- [Where are all the fireflies?](https://www.natureinfocus.in/environment/where-are-all-the-fireflies){target="_blank"} *by Sharda CSR*
 
 ## University Courses 
 
@@ -150,7 +150,7 @@ Combining lectures, role playing games and field trips to different ecosystems a
 - Pitched and designed course structure including schedule, syllabus and field trip locations.
 - Led sessions on Basic Bird Identification, Tourism Ethics, games and quizzes. Led groups on field trips.
 
-Read an article on this [here](https://birdcount.in/birding-workshop-andamans/)
+Read an article on this [here](https://birdcount.in/birding-workshop-andamans/){target="_blank"}
 
 ### Training Workshop for Forest Department Field Staff
 
@@ -172,7 +172,7 @@ We conducted a one-day workshop for field staff of the Silviculture Division, De
 *Fall 2019, Instructor*  
 In collaboration with Chanchal Singha Roy at the Government Higher Secondary School, Kadamtala, Andaman and Nicobar Islands, I designed and led a one-day workshop for high school students on the diversity of life on tree bark. 
 Through observations and note-taking, we introduced students to concepts of food webs and scales in Biology. 
-[Read reflections here.](https://medium.com/@krishna.anujan/life-on-a-tree-bark-a-workshop-44e207020f9e)
+[Read reflections here.](https://medium.com/@krishna.anujan/life-on-a-tree-bark-a-workshop-44e207020f9e){target="_blank"}
 
 ### One-day Workshop for Early Birdwatchers
 
