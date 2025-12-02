@@ -8,6 +8,7 @@ suppress-bibliography: true
 ---
 
 ## Published peer-reviewed manuscripts
+1. [@anujan_drought_inpress]
 1. [@anujan_biodiversity_2025]  
 1. [@higino_designing_2025] ***shared first authorship*** 
 1. [@anujan_metropolis_2024]
@@ -18,8 +19,7 @@ suppress-bibliography: true
 6. [@sridharan_violet_2017]
 
 ## Preprints in review
-1. [@anujan_drought_inrevision]
-2. [@anujan_longterm_inrevision]
+1. [@anujan_longterm_inrevision]
 2. [@anujan_harmonising_inreview]  
  
 ## Posters and graphical abstracts

@@ -11,11 +11,11 @@ Yet, its quantification has the highest uncertainty among terrestrial biomes.
 I study tropical forest dynamics trying to understand the effects of climate and global change on forests as a whole. 
 I am interested in measuring and modelling processes at the individual tree level, to investigate variability in tree growth across species, sites and years. 
 I currently work with [ForestGEO](https://forestgeo.si.edu/){target="_blank"}, a leading network of long-term monitoring plots. 
-In collaboration with this global network of plots and scientists, I am leveraging long-term records of manual dendrometer band measurements to model tree growth dynamics.
+In collaboration with this global network of plots and scientists, I am leveraging long-term records of manual dendrometer band measurements to model tree growth dynamics.  
 
 Current projects:
-1. Sensitivity of tree growth to drought in seasonally dry tropical forests
-2. Climate sensitivity of tropical tree growth across sites and species. 
+1. Climate sensitivity of tropical tree growth across sites and species.  
+2. Growth rhythms in tropical trees
 
 
 <!-- In the past, I have worked on the effect of biodiversity loss on tropical forest ecosystems [@anujan_biodiversity_2022, @anujan_chronic_2022] and experimental grassland systems [@anujan_trophic_2021]. I have also worked on understanding tropical phenology using a citizen science dataset  ---->
