@@ -13,7 +13,7 @@ I am interested in measuring and modelling processes at the individual tree leve
 I currently work with [ForestGEO](https://forestgeo.si.edu/){target="_blank"}, a leading network of long-term monitoring plots. 
 In collaboration with this global network of plots and scientists, I am leveraging long-term records of manual dendrometer band measurements to model tree growth dynamics.  
 
-Current projects:
+Current projects:  
 1. Climate sensitivity of tropical tree growth across sites and species.  
 2. Growth rhythms in tropical trees
 
@@ -27,7 +27,7 @@ Forests are dynamical systems and their management requires _regular_, direct da
 This requires thinking beyond basic predictive modelling frameworks - models that ask _"what if?"_ - to ecosystem forecasting framworks - models that inform _"what next?"_. 
 Currently, I am building a hierarchical Bayesian model to forecast tree growth at a temperate and tropical ForestGEO site using measurements made from three complementary techniques : five-year censuses of the whole plot using diameter tape, annual dendrometer band censuses of some individuals across species and tree ring measurements from a few species. 
 
-I am also a member of the [Ecological Forecasting Initiative](https://ecoforecast.org/){target="_blank"}.
+I am a member of the [Ecological Forecasting Initiative](https://ecoforecast.org/){target="_blank"} and a founding co-chair of the the [Asian Chapter of EFI](https://ecoforecast.org/asian-ecological-forecasting-initiative-chapter/).
 
 
 ## Data and knowledge equity for forest futures

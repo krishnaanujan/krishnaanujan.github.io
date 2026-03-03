@@ -33,8 +33,9 @@ My goal is to improve basic understanding of tropical tree community dynamics in
 I try to notice keenly and think deeply.
 <!-- I have been working consistently to bridge gaps between science and society, both through academic research on forest dynamics, mentorship and by working to strengthen human-nature connections through creative communication. -->
 
-Currently, I am a [Smithsonian Institution Postdoctoral Fellow](https://fellowships.si.edu/opportunity/smithsonian-institution-fellowship-program-sifp) with [ForestGEO](https://forestgeo.si.edu/) at the ForestGEO [Ecosystems and Climate Lab](https://sites.google.com/site/forestecoclimlab/home) advised by Kristina Anderson-Teixeira and Sean McMahon.
-Previously, I completed my PhD, advised by Shahid Naeem at the [Department of Ecology Evolution and Environmental Biology](https://e3b.columbia.edu/), Columbia University.
+Currently, I am a [STRI Postdoctoral Fellow](https://www.stri.org/programs/stri-postdoctoral-fellowship) with [ForestGEO](https://forestgeo.si.edu/) at the [Quantitave Forest Ecology Lab](https://hmullerlandau.com/about-2/) at the Smithsonian Tropical Research Institute in Panama.
+Previously, I was a [Smithsonian Institution Postdoctoral Fellow](https://fellowships.si.edu/opportunity/smithsonian-institution-fellowship-program-sifp)advised at the ForestGEO [Ecosystems and Climate Lab](https://sites.google.com/site/forestecoclimlab/home).
+I completed my PhD, advised by Shahid Naeem at the [Department of Ecology Evolution and Environmental Biology](https://e3b.columbia.edu/), Columbia University.
 
 [{{< iconify bi academicons:google-scholar-square size=1.1em title='Publications' >}} Publications](https://scholar.google.com/citations?user=6kEpMSEAAAAJ&hl=en){.btn .btn-outline-primary}
 [{{< iconify bi github size=1.1em title='GitHub' >}} GitHub](https://github.com/krishnaanujan){.btn .btn-outline-primary}
