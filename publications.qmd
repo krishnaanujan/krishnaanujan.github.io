@@ -8,6 +8,7 @@ suppress-bibliography: true
 ---
 
 ## Published peer-reviewed manuscripts
+1. [@anujan_harmonising_inpress]
 1. [@anderson-teixeira_predicting_2026] **Invited, News & Views**
 1. [@anujan_drought_2026]
 1. [@anujan_biodiversity_2025]  
@@ -20,8 +21,8 @@ suppress-bibliography: true
 6. [@sridharan_violet_2017]
 
 ## Preprints in review
-1. [@anujan_harmonising_inrevision]  
-1. [@anujan_longterm_inreview]
+1. [@anujan_longterm_inrevision]
+2. [@anderson-teixeira_global_inreview]
  
 ## Posters and graphical abstracts
 
