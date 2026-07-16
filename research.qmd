@@ -2,6 +2,7 @@
 title: "Research"
 title-block-banner: files/profiles/reflection.jpg
 description-meta: "A summary of my research interests and ongoing projects"
+csl: files/chicago-intext.csl
 ---
 
 ## Global change effects on tropical forests
@@ -42,6 +43,7 @@ This equity differential in tropical ecology can also feed back as poorly inform
 A part of my work is to bridge these gaps in ways that fit with my expertise.
 
 I have been co-leading [INvenTree](https://india-inventree.github.io/){target="_blank"}, an effort at harmonising disparate datasets on tree inventories in India to benefit research and researchers. 
+Read our first paper [here](https://doi.org/10.1111/btp.70236).
 
 I am a co-founder of [Local Voices in Conservation](https://localvoicesportblair.my.canva.site/){target="_blank"}, a summer school for young professionals from the Andaman Islands interested in Conservation.
 In the past, I have worked on projects on biocultural conservation to understand forest health.

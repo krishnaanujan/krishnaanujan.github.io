@@ -8,7 +8,7 @@ suppress-bibliography: true
 ---
 
 ## Published peer-reviewed manuscripts
-1. [@anujan_harmonising_inpress]
+1. [@anujan_harmonizing_2026]
 1. [@anderson-teixeira_predicting_2026] **Invited, News & Views**
 1. [@anujan_drought_2026]
 1. [@anujan_biodiversity_2025]  
